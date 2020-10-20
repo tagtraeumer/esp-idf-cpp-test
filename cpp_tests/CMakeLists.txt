@@ -3,4 +3,4 @@ project(cpp_tests)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(cpp_tests main.cpp uuid.h ble.h ble.cpp gatt.h)
+add_executable(cpp_tests main.cpp uuid.h)
